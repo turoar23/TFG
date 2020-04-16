@@ -1,0 +1,9 @@
+El trabajo de fin de grado denominado "LOOP" consta de:
+
+Un análisis previo de la apliación así como el proceso de diseño e implementación de la parte de cliente (frontend).
+
+El proyecto se puede definir como una aplicación web adaptable a las distintas resoluciones de dispositivos. 
+La aplicación está enfocada al seguimiento y monitorización fitness de los datos que haya introducido un usuario durante su proceso de rutina o entrenamiento diario.
+De esta manera se pretende que el usuario pueda tener de forma simple e intuitiva una evolución de todos sus ejercicios. Con los datos que el usuario 
+introduzca diariamente durante el uso de la aplicación, se generarán estadísticas y gráficas correspondientes de manera que pueda observar puntos de estancamiento
+o progresos y pueda solventarlos de manera rápida. Se propone la aplicación como un panel donde consten sus datos almacenados y de forma accesible pueda ver su evolución.
