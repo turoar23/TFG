@@ -1,0 +1,6 @@
+
+// Añade una capa de LSTM de 4 neuronas. el input_shape es el formato de la entrada donde (numero de entradas, dimension de estas)
+// La dimension de la entrada sirve para el modelo de la ventana
+
+model.add(LSTM(4, input_shape=(1, look_back)))
+model.add(Dense(1))
